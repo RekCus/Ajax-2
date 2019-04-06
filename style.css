@@ -1,0 +1,11 @@
+body{
+    background-color: aliceblue;
+}
+form{
+    border: 1px dotted black;
+    padding: 1%;
+}
+#responseHere{
+    border: 1px dotted black;
+    padding: 1%;
+}
